@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "愛す",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-01-13T16:03:46.243678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛す",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/01_愛す_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛す - Busu",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_愛す_-_Busu_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛す",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_愛す_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛す",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_愛す_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛す",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_愛す_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛す",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_04_愛す_クリープハイプ.txt"
+    }
+  ]
+}
